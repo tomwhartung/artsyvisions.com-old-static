@@ -1,0 +1,127 @@
+/*
+ * basicStyles.css
+ */
+body
+{
+   background-color: black;  /* in case background-dark.jpg goes missing */
+   background-attachment: scroll;
+   background-image: url(images/background-dark.jpg);
+}
+.centered
+{
+   text-align: center;
+}
+h1, h2, p, th, td, blockquote, caption
+{
+   color: #ddbb33;
+}
+h1, h2
+{
+   text-align: center;
+   margin: 10px;
+   padding: 10px;
+}
+h1
+{
+   font: bold 32px/40px Times, serif;
+   text-decoration: underline;
+}
+h2
+{
+   font: bold 26px/32px Times, serif;
+   text-decoration: underline;
+}
+p, blockquote
+{
+   font: 20px Arial, Helvetica, sans-serif;
+}
+p, blockquote
+{
+   text-align:    left;
+   margin-top:    20px;
+   margin-left:   40px;
+   margin-right:  50px;
+   margin-bottom: 30px;
+}
+p.batch_description  /* use to break up long entries in td.text blocks */
+{
+   font:           12px Arial, Helvetica, sans-serif;   /* should be same as td.text (inherited from classless td tags) */
+   margin-top:     0px;
+   margin-left:    6px;
+   margin-right:   6px;
+   margin-bottom:  0px;
+   padding-top:    4px;
+   padding-bottom: 4px;
+   text-align:     left;
+}
+a
+{
+   color: #66aaff;
+   text-decoration: underline;
+   margin: 4px;
+   padding: 4px;
+}
+a:visited
+{
+   color: #3366ff;
+   text-decoration: none;
+}
+a:hover
+{
+   color:   #aaccff;
+   border:  #ddeeff ridge 8px;
+   text-decoration: none;
+}
+hr
+{
+   color: #ddbb33;  /* works only when color also set in tag */
+}
+table
+{
+   border: #ddbb33 ridge 9px;
+   padding: 4px;
+}
+table.all_batches
+{
+   width: 93%;
+}
+table.bob   /* bob: Batch of Batches */
+{
+   border-style: solid;
+   border-width: 1px;
+   margin: 4px;
+   width: 96%;
+}
+th, td
+{
+   padding-top: 6px;
+   padding-bottom: 6px;
+}
+th
+{
+   font: bold 14px Times, serif;
+   text-decoration: underline;
+}
+td
+{
+   font: 12px Arial, Helvetica, sans-serif;
+   text-align: center;
+}
+td.column_of_batches
+{
+   width: 50%;
+}
+th.new39, td.new39
+{
+   width: 39;
+}
+th.link, td.link
+{
+   text-align: center;
+   white-space: nowrap;
+}
+th.text, td.text
+{
+   text-align: left;
+}
+
