@@ -1,0 +1,21 @@
+#
+# Documentation is here: http://git-scm.com/docs/gitignore
+#
+#
+# For vim temporary files
+#
+*.swp
+.~lock.*
+.*~
+*~
+
+tmp/
+
+#
+# For all the files we do not want to check in:
+#
+Site/friends
+Site/images
+Site/photo_batches
+Site/published
+
