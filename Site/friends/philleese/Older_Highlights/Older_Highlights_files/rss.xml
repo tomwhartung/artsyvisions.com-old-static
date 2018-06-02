@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Older Highlights</title>
+    <link>file://localhost/private/var/www/artsyvisions.com/html/friends/philleese/Older_Highlights/Older_Highlights.html</link>
+    <description>Older Highlights</description>
+    <item>
+      <title>Highlights Jan-June 2009</title>
+      <link>file://localhost/private/var/www/artsyvisions.com/html/friends/philleese/Older_Highlights/Pages/Highlights_Jan-June_2009.html</link>
+      <guid isPermaLink="false">b49ebcac-2982-4c07-81ed-3a35e1058929</guid>
+    </item>
+    <item>
+      <title>Highlights 2008</title>
+      <link>file://localhost/private/var/www/artsyvisions.com/html/friends/philleese/Older_Highlights/Pages/Highlights_2008.html</link>
+      <guid isPermaLink="false">06a862a0-9589-40d8-b8dc-aea55399efbc</guid>
+    </item>
+    <item>
+      <title>Highlights 2007</title>
+      <link>file://localhost/private/var/www/artsyvisions.com/html/friends/philleese/Older_Highlights/Pages/Highlights_2007.html</link>
+      <guid isPermaLink="false">c23b394c-f57a-4ece-b682-15280905700b</guid>
+    </item>
+    <item>
+      <title>Highlights 2006</title>
+      <link>file://localhost/private/var/www/artsyvisions.com/html/friends/philleese/Older_Highlights/Pages/Highlights_2006.html</link>
+      <guid isPermaLink="false">3b10699a-df0d-4542-89c9-69ca30159714</guid>
+    </item>
+  </channel>
+</rss>

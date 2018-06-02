@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Highlights</title>
+    <link>file://localhost/private/var/www/artsyvisions.com/html/friends/philleese/Highlights/Highlights.html</link>
+    <description>Highlights</description>
+    <item>
+      <title>Highlights 2010</title>
+      <link>file://localhost/private/var/www/artsyvisions.com/html/friends/philleese/Highlights/Pages/Highlights_2010.html</link>
+      <guid isPermaLink="false">9004b5f2-005e-483b-b209-fa696af760bb</guid>
+    </item>
+    <item>
+      <title>Highlights Oct-Dec, 2009</title>
+      <link>file://localhost/private/var/www/artsyvisions.com/html/friends/philleese/Highlights/Pages/Highlights_Oct-Dec,_2009.html</link>
+      <guid isPermaLink="false">849bfd03-1b50-4f25-ac43-2507c2f0ab05</guid>
+    </item>
+    <item>
+      <title>Highlights Jul-Sep, 2009</title>
+      <link>file://localhost/private/var/www/artsyvisions.com/html/friends/philleese/Highlights/Pages/Highlights_Jul-Sep,_2009.html</link>
+      <guid isPermaLink="false">693ad06f-3817-44af-b4f5-94f1b544d980</guid>
+    </item>
+  </channel>
+</rss>
