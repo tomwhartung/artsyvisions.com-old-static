@@ -1,0 +1,67 @@
+/*
+ * localStyles.css
+ */
+body
+{
+   background-attachment: fixed;
+   background-image: url(siouxsie-cropped-scaled-curves-4.jpg);
+}
+h1, h2, p, th, td, blockquote, caption
+{
+   color: #ff88ff;
+}
+p
+{
+   font: 14px Arial, Helvetica, sans-serif;
+   margin-top:    10px;
+   margin-bottom: 10px;
+   text-align: justify;
+   width: 81%;
+}
+a
+{
+   color: #dd66ff;
+   text-decoration: overline;
+}
+a:visited
+{
+   color: #cc55ee;
+   text-decoration: line-through;
+}
+a:hover
+{
+   background-color: #cc66dd;
+   border: none;
+   color: #112200;
+   text-decoration: none;
+}
+
+table
+{
+   border: #ff33ff solid 3px;
+   margin: 6px;
+   padding: 6px;
+}
+th, td
+{
+   margin: 6px;
+   padding: 6px;
+}
+table.all_batches
+{
+   width: 81%;
+}
+table.bob
+{
+   width: 100%;
+}
+th.link, td.link
+{
+   text-align: center;
+   width:      30%;
+}
+th.text, td.text
+{
+   text-align: justify;
+   width:      70%;
+}
