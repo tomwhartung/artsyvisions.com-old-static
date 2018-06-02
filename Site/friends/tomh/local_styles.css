@@ -1,0 +1,41 @@
+/*
+ * localStyles.css
+ */
+body
+{
+   background-image: url(background-dark.jpg);
+}
+a:hover
+{
+   border: solid 2px;
+}
+/* table.bob
+ * {
+ *    width: 90%;
+ * }
+ */
+th, td
+{
+   margin: 6px;
+   padding: 6px;
+}
+th.link, td.link
+{
+   text-align: right;
+/* width:      60px; */
+   width:      16%;
+}
+th.text, td.text
+{
+   text-align: left;
+/* width:      220px; */
+   width:      81%;
+}
+p
+{
+   font: 14px Arial, Helvetica, sans-serif;
+   margin-top:    10px;
+   margin-left:   50px;
+   margin-bottom: 10px;
+
+}

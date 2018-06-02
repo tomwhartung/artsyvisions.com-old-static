@@ -14,8 +14,17 @@ tmp/
 #
 # For all the files we do not want to check in:
 #
-Site/friends
+Site/friends/clubs
+Site/friends/jjam
+Site/friends/philleese
+Site/friends/vpg
+Site/friends/yolanda
+
+Site/photo_batches/jjam
+Site/photo_batches/shows
+Site/photo_batches/vpg
+Site/photo_batches/yolanda
+
 Site/images
-Site/photo_batches
 Site/published
 
