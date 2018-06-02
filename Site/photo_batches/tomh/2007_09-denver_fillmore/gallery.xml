@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collections>
+ <collection>
+  <name>Selected images</name>
+  <fileName>selected_images</fileName>
+  <image>
+   <title>phil_and_friends-3x.jpg</title>
+   <description></description>
+   <full fileName="phil_and_friends-3x_jpg.jpeg" height="540" width="720"/>
+   <thumbnail fileName="thumb_phil_and_friends-3x_jpg.jpeg" height="480" width="480"/>
+   <original fileName="original_phil_and_friends-3x_jpg.jpeg" height="360" width="480"/>
+  </image>
+  <image>
+   <title>snoop_doggy_dogg-3x.jpg</title>
+   <description></description>
+   <full fileName="snoop_doggy_dogg-3x_jpg.jpeg" height="540" width="720"/>
+   <thumbnail fileName="thumb_snoop_doggy_dogg-3x_jpg.jpeg" height="480" width="480"/>
+   <original fileName="original_snoop_doggy_dogg-3x_jpg.jpeg" height="360" width="480"/>
+  </image>
+ </collection>
+</collections>

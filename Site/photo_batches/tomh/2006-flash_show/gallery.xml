@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collections>
+ <collection>
+  <name>Folder content</name>
+  <fileName>folder_content</fileName>
+  <image>
+   <title>torso_at_the_church-1-5x7.jpg</title>
+   <description></description>
+   <full fileName="torso_at_the_church-1-5x7_jpg.jpeg" height="720" width="514"/>
+   <thumbnail fileName="thumb_torso_at_the_church-1-5x7_jpg.jpeg" height="240" width="240"/>
+  </image>
+  <image>
+   <title>torso_at_the_church-2-8x10.jpg</title>
+   <description></description>
+   <full fileName="torso_at_the_church-2-8x10_jpg.jpeg" height="720" width="576"/>
+   <thumbnail fileName="thumb_torso_at_the_church-2-8x10_jpg.jpeg" height="240" width="240"/>
+  </image>
+  <image>
+   <title>torso_at_the_church-3-5x7.jpg</title>
+   <description></description>
+   <full fileName="torso_at_the_church-3-5x7_jpg.jpeg" height="720" width="514"/>
+   <thumbnail fileName="thumb_torso_at_the_church-3-5x7_jpg.jpeg" height="240" width="240"/>
+  </image>
+ </collection>
+</collections>

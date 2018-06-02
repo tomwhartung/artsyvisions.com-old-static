@@ -1,0 +1,44 @@
+h2
+{
+	font-size: 33px;
+	border: #ff4747 ridge 5px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 4px;
+	width: auto;
+}
+p.back
+{
+	margin-top: 16px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 0px;
+	text-align: center
+}
+p.pages
+{
+	border: #ff4747 ridge 3px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 4px;
+	width: 33%;
+}
+img
+{
+	border: #ff4747 solid 2px;
+}
+a
+{
+	color: #ffa7a7;
+	font-size: 11pt;
+	text-decoration: underline;
+}
+a:visited
+{
+	color: #ff7777;
+}
+a:hover
+{
+	color: #ffffff;
+	text-decoration: overline;
+}

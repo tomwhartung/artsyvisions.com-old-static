@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collections>
+ <collection>
+  <name>Folder content</name>
+  <fileName>folder_content</fileName>
+  <image>
+   <title>chrissy.jpg</title>
+   <description></description>
+   <full fileName="chrissy_jpg.jpeg" height="240" width="320"/>
+   <thumbnail fileName="thumb_chrissy_jpg.jpeg" height="160" width="160"/>
+   <original fileName="original_chrissy_jpg.jpeg" height="120" width="160"/>
+  </image>
+  <image>
+   <title>double_rainbow.jpg</title>
+   <description></description>
+   <full fileName="double_rainbow_jpg.jpeg" height="240" width="320"/>
+   <thumbnail fileName="thumb_double_rainbow_jpg.jpeg" height="160" width="160"/>
+   <original fileName="original_double_rainbow_jpg.jpeg" height="120" width="160"/>
+  </image>
+  <image>
+   <title>emilia.jpg</title>
+   <description></description>
+   <full fileName="emilia_jpg.jpeg" height="240" width="320"/>
+   <thumbnail fileName="thumb_emilia_jpg.jpeg" height="160" width="160"/>
+   <original fileName="original_emilia_jpg.jpeg" height="120" width="160"/>
+  </image>
+  <image>
+   <title>imperative_reaction.jpg</title>
+   <description></description>
+   <full fileName="imperative_reaction_jpg.jpeg" height="240" width="320"/>
+   <thumbnail fileName="thumb_imperative_reaction_jpg.jpeg" height="160" width="160"/>
+   <original fileName="original_imperative_reaction_jpg.jpeg" height="120" width="160"/>
+  </image>
+  <image>
+   <title>joey-1.jpg</title>
+   <description></description>
+   <full fileName="joey-1_jpg.jpeg" height="240" width="320"/>
+   <thumbnail fileName="thumb_joey-1_jpg.jpeg" height="160" width="160"/>
+   <original fileName="original_joey-1_jpg.jpeg" height="240" width="320"/>
+  </image>
+  <image>
+   <title>kim-3.jpg</title>
+   <description></description>
+   <full fileName="kim-3_jpg.jpeg" height="240" width="320"/>
+   <thumbnail fileName="thumb_kim-3_jpg.jpeg" height="160" width="160"/>
+   <original fileName="original_kim-3_jpg.jpeg" height="120" width="160"/>
+  </image>
+  <image>
+   <title>kristi-2.jpg</title>
+   <description></description>
+   <full fileName="kristi-2_jpg.jpeg" height="240" width="320"/>
+   <thumbnail fileName="thumb_kristi-2_jpg.jpeg" height="160" width="160"/>
+   <original fileName="original_kristi-2_jpg.jpeg" height="120" width="160"/>
+  </image>
+  <image>
+   <title>limo.jpg</title>
+   <description></description>
+   <full fileName="limo_jpg.jpeg" height="240" width="320"/>
+   <thumbnail fileName="thumb_limo_jpg.jpeg" height="160" width="160"/>
+   <original fileName="original_limo_jpg.jpeg" height="240" width="320"/>
+  </image>
+  <image>
+   <title>phil_and_friends.jpg</title>
+   <description></description>
+   <full fileName="phil_and_friends_jpg.jpeg" height="240" width="320"/>
+   <thumbnail fileName="thumb_phil_and_friends_jpg.jpeg" height="160" width="160"/>
+   <original fileName="original_phil_and_friends_jpg.jpeg" height="120" width="160"/>
+  </image>
+  <image>
+   <title>phils_friend.jpg</title>
+   <description></description>
+   <full fileName="phils_friend_jpg.jpeg" height="240" width="320"/>
+   <thumbnail fileName="thumb_phils_friend_jpg.jpeg" height="160" width="160"/>
+   <original fileName="original_phils_friend_jpg.jpeg" height="120" width="160"/>
+  </image>
+  <image>
+   <title>rachelle.jpg</title>
+   <description></description>
+   <full fileName="rachelle_jpg.jpeg" height="240" width="320"/>
+   <thumbnail fileName="thumb_rachelle_jpg.jpeg" height="160" width="160"/>
+   <original fileName="original_rachelle_jpg.jpeg" height="120" width="160"/>
+  </image>
+  <image>
+   <title>sarah.jpg</title>
+   <description></description>
+   <full fileName="sarah_jpg.jpeg" height="240" width="320"/>
+   <thumbnail fileName="thumb_sarah_jpg.jpeg" height="160" width="160"/>
+   <original fileName="original_sarah_jpg.jpeg" height="120" width="160"/>
+  </image>
+  <image>
+   <title>selena_and_jen.jpg</title>
+   <description></description>
+   <full fileName="selena_and_jen_jpg.jpeg" height="240" width="320"/>
+   <thumbnail fileName="thumb_selena_and_jen_jpg.jpeg" height="160" width="160"/>
+   <original fileName="original_selena_and_jen_jpg.jpeg" height="240" width="320"/>
+  </image>
+  <image>
+   <title>sharyl.jpg</title>
+   <description></description>
+   <full fileName="sharyl_jpg.jpeg" height="240" width="320"/>
+   <thumbnail fileName="thumb_sharyl_jpg.jpeg" height="160" width="160"/>
+   <original fileName="original_sharyl_jpg.jpeg" height="240" width="320"/>
+  </image>
+  <image>
+   <title>skinny_puppy.jpg</title>
+   <description></description>
+   <full fileName="skinny_puppy_jpg.jpeg" height="240" width="320"/>
+   <thumbnail fileName="thumb_skinny_puppy_jpg.jpeg" height="160" width="160"/>
+   <original fileName="original_skinny_puppy_jpg.jpeg" height="120" width="160"/>
+  </image>
+  <image>
+   <title>snoop_doggy_dogg.jpg</title>
+   <description></description>
+   <full fileName="snoop_doggy_dogg_jpg.jpeg" height="240" width="320"/>
+   <thumbnail fileName="thumb_snoop_doggy_dogg_jpg.jpeg" height="160" width="160"/>
+   <original fileName="original_snoop_doggy_dogg_jpg.jpeg" height="120" width="160"/>
+  </image>
+  <image>
+   <title>tara.jpg</title>
+   <description></description>
+   <full fileName="tara_jpg.jpeg" height="240" width="320"/>
+   <thumbnail fileName="thumb_tara_jpg.jpeg" height="160" width="160"/>
+   <original fileName="original_tara_jpg.jpeg" height="240" width="320"/>
+  </image>
+  <image>
+   <title>the_start.jpg</title>
+   <description></description>
+   <full fileName="the_start_jpg.jpeg" height="240" width="320"/>
+   <thumbnail fileName="thumb_the_start_jpg.jpeg" height="160" width="160"/>
+   <original fileName="original_the_start_jpg.jpeg" height="120" width="160"/>
+  </image>
+  <image>
+   <title>valerie-2.jpg</title>
+   <description></description>
+   <full fileName="valerie-2_jpg.jpeg" height="240" width="320"/>
+   <thumbnail fileName="thumb_valerie-2_jpg.jpeg" height="160" width="160"/>
+   <original fileName="original_valerie-2_jpg.jpeg" height="120" width="160"/>
+  </image>
+  <image>
+   <title>veronica-2.jpg</title>
+   <description></description>
+   <full fileName="veronica-2_jpg.jpeg" height="240" width="320"/>
+   <thumbnail fileName="thumb_veronica-2_jpg.jpeg" height="160" width="160"/>
+   <original fileName="original_veronica-2_jpg.jpeg" height="120" width="160"/>
+  </image>
+ </collection>
+</collections>

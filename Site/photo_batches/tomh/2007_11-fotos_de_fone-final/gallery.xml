@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collections>
+ <collection>
+  <name>Folder content</name>
+  <fileName>folder_content</fileName>
+  <image>
+   <title>archo_iris_doble-final.jpg</title>
+   <description></description>
+   <full fileName="archo_iris_doble-final_jpg.jpeg" height="652" width="1000"/>
+   <thumbnail fileName="thumb_archo_iris_doble-final_jpg.jpeg" height="500" width="500"/>
+  </image>
+  <image>
+   <title>mis_amigas-final.jpg</title>
+   <description></description>
+   <full fileName="mis_amigas-final_jpg.jpeg" height="1000" width="900"/>
+   <thumbnail fileName="thumb_mis_amigas-final_jpg.jpeg" height="500" width="500"/>
+  </image>
+  <image>
+   <title>super_estrellas-final.jpg</title>
+   <description></description>
+   <full fileName="super_estrellas-final_jpg.jpeg" height="791" width="1000"/>
+   <thumbnail fileName="thumb_super_estrellas-final_jpg.jpeg" height="500" width="500"/>
+  </image>
+ </collection>
+</collections>

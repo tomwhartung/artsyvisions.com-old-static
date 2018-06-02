@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collections>
+ <collection>
+  <name>Folder content</name>
+  <fileName>folder_content</fileName>
+  <image>
+   <title>dsc03230.jpg</title>
+   <description></description>
+   <full fileName="dsc03230_jpg.jpeg" height="540" width="720"/>
+   <thumbnail fileName="thumb_dsc03230_jpg.jpeg" height="240" width="240"/>
+  </image>
+  <image>
+   <title>dsc03235.jpg</title>
+   <description></description>
+   <full fileName="dsc03235_jpg.jpeg" height="720" width="540"/>
+   <thumbnail fileName="thumb_dsc03235_jpg.jpeg" height="240" width="240"/>
+  </image>
+  <image>
+   <title>dsc03251.jpg</title>
+   <description></description>
+   <full fileName="dsc03251_jpg.jpeg" height="540" width="720"/>
+   <thumbnail fileName="thumb_dsc03251_jpg.jpeg" height="240" width="240"/>
+  </image>
+ </collection>
+</collections>
