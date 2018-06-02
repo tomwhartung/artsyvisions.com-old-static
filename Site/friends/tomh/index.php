@@ -808,6 +808,17 @@ function print_artsy_table()
    print    "(I had to scan these photos to post them.)\n";
    print "     </td>\n";
    print "    </tr>\n";
+   print "    <tr>\n";
+   print "     <td class='link'><a href='/jjam.html'>jjam.html</a>\n";
+   print "     </td>\n";
+   print "     <td class='text'>More artsy stuff: jjam!\n";
+   print "     </td>\n";
+   print "    </tr>\n";
+   print "    <tr>\n";
+   print "     <td class='link'><a href='/philleese.html'>philleese.html</a>\n";
+   print "     </td>\n";
+   print "     <td class='text'>More artsy stuff: philleese!\n";
+   print "     </td>\n";
    print "    </tr>\n";
    print "   </table>\n";
 }
